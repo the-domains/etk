@@ -1,6 +1,6 @@
 name: Erinevate Tubade Klubi
 favicon: null
-layout_spectrum: 0.24191
+layout_spectrum: 0.5052
 typography_spectrum: 0.48512
 title: Erinevate Tubade Klubi
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010506'
-    - '#0e5fcd'
-    - '#cdd5fd'
-    - '#b48965'
-    - '#7eb4e5'
+    - '#ffffff'
+    - '#0b24fb'
+    - '#9776d7'
+    - '#3a5ae4'
+    - '#9f9dee'
   brandStrength: 1
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
