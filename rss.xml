@@ -4,7 +4,7 @@
         <description><![CDATA[Erinevate Tubade Klubi]]></description>
         <link>https://thegrid.ai/etk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 17:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 17:50:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/etk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ASUKOHT]]></title>
@@ -15,6 +15,17 @@ Klubisse juhatab külalised eraldiseisev sissepääs. 100 m raadiuses on olem
             <link>https://thegrid.ai/etk/7dfe9152-d5de-4cd7-8a8d-02cd45ee3cbc/index.html</link>
             <guid isPermaLink="false">7dfe9152-d5de-4cd7-8a8d-02cd45ee3cbc</guid>
             <pubDate>Sun, 14 Feb 2016 17:32:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PEASAAL]]></title>
+            <description><![CDATA[<article><h1>PEASAAL</h1><p>ETK peasaal on vaikimisi jaotatud 12-ks elutoasektsiooniks. Sektsioonides istuvad külastajad mugavalt diivanitel ja
+tugitoolidel. Elutoastiilis mahutab peasaal istuma kuni 90 inimest. Asendades peasaalis neli esimest elutoasektsiooni
+teatristiilis pingirividega, mahutame istuma kuni 150 inimest. Kombineerides klapptoolidega mahutab peasaal istuma
+kuni 250 inimest.
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c02b6958bf349bb793721d15999623eb880f607a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/etk/peasaal-260-m2-kuni-150-istekohta/index.html</link>
+            <guid isPermaLink="false">5004139f-0aaa-4574-82fb-eafc37569662</guid>
+            <pubDate>Sun, 14 Feb 2016 17:50:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
