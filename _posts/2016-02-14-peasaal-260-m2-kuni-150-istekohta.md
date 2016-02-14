@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-14T21:22:08.657Z'
-dateModified: '2016-02-14T21:22:00.673Z'
+datePublished: '2016-02-14T21:25:47.194Z'
+dateModified: '2016-02-14T21:25:43.689Z'
 title: PEASAAL
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
@@ -28,4 +28,4 @@ ETK peasaal on vaikimisi jaotatud 12-ks elutoasektsiooniks. Sektsioonides istuva
 tugitoolidel. Elutoastiilis mahutab peasaal istuma kuni 90 inimest. Asendades peasaalis neli esimest elutoasektsiooni
 teatristiilis pingirividega, mahutame istuma kuni 150 inimest. Kombineerides klapptoolidega mahutab peasaal istuma
 kuni 250 inimest.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3d40858-c335-41b9-b29d-402355eb78ce.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01f28758-dcd1-415d-9b1f-239eb064772a.png)
