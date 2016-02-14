@@ -4,18 +4,8 @@
         <description><![CDATA[Erinevate Tubade Klubi]]></description>
         <link>https://thegrid.ai/etk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 17:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 17:43:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/etk/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[ASUKOHT]]></title>
-            <description><![CDATA[<article><h1>ASUKOHT</h1><p>Erinevate Tubade Klubi (ETK) asub Telliskivi Loomelinnaku A1 hoone IV korrusel. 600 m2 põrandapinnalt avanevad mitmekülgsed vaated nii Tallinna vanalinnale kui ka ümbritsevale tööstusmaastikule.
-Klubisse juhatab külalised eraldiseisev sissepääs. 100 m raadiuses on olemas valik parklaid ning söögikohti igale maitsele.
-
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/effce0486a3f456ec77fc706cb90038dc202b9b1.png"></article>]]></description>
-            <link>https://thegrid.ai/etk/7dfe9152-d5de-4cd7-8a8d-02cd45ee3cbc/index.html</link>
-            <guid isPermaLink="false">7dfe9152-d5de-4cd7-8a8d-02cd45ee3cbc</guid>
-            <pubDate>Sun, 14 Feb 2016 17:32:38 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[PEASAAL / 260 m2 / kuni 150 istekohta]]></title>
             <description><![CDATA[<article><h1>PEASAAL / 260 m2 / kuni 150 istekohta</h1><p>ETK peasaal on vaikimisi jaotatud 12-ks elutoasektsiooniks. Sektsioonides istuvad külastajad mugavalt diivanitel ja
@@ -25,7 +15,17 @@ kuni 250 inimest.
 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c02b6958bf349bb793721d15999623eb880f607a.jpg"></article>]]></description>
             <link>https://thegrid.ai/etk/peasaal-260-m2-kuni-150-istekohta/index.html</link>
             <guid isPermaLink="false">5004139f-0aaa-4574-82fb-eafc37569662</guid>
-            <pubDate>Sun, 14 Feb 2016 17:41:44 GMT</pubDate>
+            <pubDate>Sun, 14 Feb 2016 17:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ASUKOHT]]></title>
+            <description><![CDATA[<article><h1>ASUKOHT</h1><p>Erinevate Tubade Klubi (ETK) asub Telliskivi Loomelinnaku A1 hoone IV korrusel. 600 m2 põrandapinnalt avanevad mitmekülgsed vaated nii Tallinna vanalinnale kui ka ümbritsevale tööstusmaastikule.
+Klubisse juhatab külalised eraldiseisev sissepääs. 100 m raadiuses on olemas valik parklaid ning söögikohti igale maitsele.
+
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/effce0486a3f456ec77fc706cb90038dc202b9b1.png"></article>]]></description>
+            <link>https://thegrid.ai/etk/7dfe9152-d5de-4cd7-8a8d-02cd45ee3cbc/index.html</link>
+            <guid isPermaLink="false">7dfe9152-d5de-4cd7-8a8d-02cd45ee3cbc</guid>
+            <pubDate>Sun, 14 Feb 2016 17:32:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
