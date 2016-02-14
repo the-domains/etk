@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-14T17:38:59.561Z'
-dateModified: '2016-02-14T17:38:45.467Z'
+datePublished: '2016-02-14T17:41:44.710Z'
+dateModified: '2016-02-14T17:39:51.172Z'
 title: PEASAAL / 260 m2 / kuni 150 istekohta
 author: []
+sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
-published: true
 url: peasaal-260-m2-kuni-150-istekohta/index.html
 _type: Article
 
