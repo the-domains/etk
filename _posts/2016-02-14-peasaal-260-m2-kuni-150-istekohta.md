@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T18:03:50.572Z'
-dateModified: '2016-02-15T18:03:48.975Z'
-title: RUUMID
+datePublished: '2016-02-15T18:13:34.423Z'
+dateModified: '2016-02-15T18:13:14.204Z'
+title: PEASAAL / 250 m2
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
 published: true
@@ -22,9 +22,7 @@ url: peasaal-260-m2-kuni-150-istekohta/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbce122e-49e7-47d2-a670-2ecbb102d7e8.jpg)
-
-# RUUMID
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d28cac8-bcc6-4503-8287-305ca21368bb.jpg)
 
 # PEASAAL / 250 m2
 
@@ -33,6 +31,8 @@ tugitoolidel. Elutoastiilis mahutab peasaal istuma kuni 90 inimest. Asendades pe
 teatristiilis pingirividega, mahutame istuma kuni 150 inimest. Kombineerides klapptoolidega mahutab peasaal istuma
 kuni 250 inimest.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01f28758-dcd1-415d-9b1f-239eb064772a.png)
+
+# 
 
 # ELUTOAD
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1560b44c-e845-4ddb-b7eb-ba4f0b2b1b43.jpg)
