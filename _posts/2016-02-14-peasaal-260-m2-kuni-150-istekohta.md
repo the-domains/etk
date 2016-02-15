@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T18:46:40.556Z'
-dateModified: '2016-02-15T18:46:40.428Z'
+datePublished: '2016-02-15T19:03:55.345Z'
+dateModified: '2016-02-15T19:03:51.445Z'
 title: RUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
@@ -23,9 +23,12 @@ _type: Article
 
 ---
 # RUUMID
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d28cac8-bcc6-4503-8287-305ca21368bb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/948ed2cf-2e9f-4409-9d5f-f9821b1dc95d.jpg)
+
+Erinevate Tubade Klubi ruumid ja atmosfäär on midagi neile, kes otsivad teistsuguseid kogemusi, kuid peavad samas tähtsaks elementaarseid mugavusi ja professionaalseid lahendusi.
 
 # PEASAAL / 250 m2
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53feafb1-db54-4881-bbc5-96dadc6b5d78.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01f28758-dcd1-415d-9b1f-239eb064772a.png)
 
 ETK peasaal on vaikimisi jaotatud 12-ks elutoasektsiooniks. Sektsioonides istuvad külastajad mugavalt diivanitel ja
