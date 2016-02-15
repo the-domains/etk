@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T17:06:33.989Z'
-dateModified: '2016-02-15T17:06:27.046Z'
-title: 'PEASAAL / 250 m2 '
+datePublished: '2016-02-15T17:10:06.953Z'
+dateModified: '2016-02-15T17:09:56.422Z'
+title: RUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
 published: true
@@ -22,7 +22,9 @@ url: peasaal-260-m2-kuni-150-istekohta/index.html
 _type: Article
 
 ---
-# PEASAAL / 250 m2
+# RUUMID
+
+## PEASAAL / 250 m2
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbce122e-49e7-47d2-a670-2ecbb102d7e8.jpg)
 
 ETK peasaal on vaikimisi jaotatud 12-ks elutoasektsiooniks. Sektsioonides istuvad külastajad mugavalt diivanitel ja
