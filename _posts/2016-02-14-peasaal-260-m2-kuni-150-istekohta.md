@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T17:00:58.663Z'
-dateModified: '2016-02-15T17:00:54.428Z'
-title: PEASAAL / 250 m2
+datePublished: '2016-02-15T17:06:33.989Z'
+dateModified: '2016-02-15T17:06:27.046Z'
+title: 'PEASAAL / 250 m2 '
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
 published: true
