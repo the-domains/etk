@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T18:40:25.015Z'
-dateModified: '2016-02-15T18:40:16.917Z'
+datePublished: '2016-02-15T18:46:40.556Z'
+dateModified: '2016-02-15T18:46:40.428Z'
 title: RUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
@@ -23,10 +23,9 @@ _type: Article
 
 ---
 # RUUMID
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/452cd5ce-acad-4c31-b69b-987bafa9f831.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d28cac8-bcc6-4503-8287-305ca21368bb.jpg)
 
 # PEASAAL / 250 m2
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d28cac8-bcc6-4503-8287-305ca21368bb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01f28758-dcd1-415d-9b1f-239eb064772a.png)
 
 ETK peasaal on vaikimisi jaotatud 12-ks elutoasektsiooniks. Sektsioonides istuvad külastajad mugavalt diivanitel ja
@@ -62,4 +61,4 @@ Backstage ruum on suurepäraseks abiruumiks suurematel sündmustel, olgu tema fu
 # ABIRUUMID
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8b53bc-02a4-4875-adf1-565a5d99fde5.jpg)
 
-Erinevate Tubade Klubi garderoob mahutab kuni 350 külalise üleriided ja jalatsid. Puhveti abiruumid sobivad suurepäraselt cateringi-tagalaks. Suitsunurga ja tualettideni juhatab külalised (üsnagi priske) tükike elusloodust - tubast džunglimeeleolu loov taimesein.
+Erinevate Tubade Klubi garderoob mahutab kuni 350 külalise üleriided ja jalatsid. Puhveti abiruumid sobivad suurepäraselt cateringi-tagalaks. Suitsunurga ja tualettideni juhatab külalised (üsnagi priske) tükike elusloodust - tubast džunglimeeleolu loov taimesein. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/452cd5ce-acad-4c31-b69b-987bafa9f831.png)
