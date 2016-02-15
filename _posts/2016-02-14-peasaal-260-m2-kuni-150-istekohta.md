@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T18:24:23.971Z'
-dateModified: '2016-02-15T18:21:32.753Z'
+datePublished: '2016-02-15T18:32:39.654Z'
+dateModified: '2016-02-15T18:32:37.540Z'
 title: RUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
@@ -23,9 +23,9 @@ _type: Article
 
 ---
 # RUUMID
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d28cac8-bcc6-4503-8287-305ca21368bb.jpg)
 
 # PEASAAL / 250 m2
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d28cac8-bcc6-4503-8287-305ca21368bb.jpg)
 
 ETK peasaal on vaikimisi jaotatud 12-ks elutoasektsiooniks. Sektsioonides istuvad külastajad mugavalt diivanitel ja
 tugitoolidel. Elutoastiilis mahutab peasaal istuma kuni 90 inimest. Asendades peasaalis neli esimest elutoasektsiooni
