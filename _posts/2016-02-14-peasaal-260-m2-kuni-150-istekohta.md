@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T19:03:55.345Z'
-dateModified: '2016-02-15T19:03:51.445Z'
+datePublished: '2016-02-15T19:23:42.504Z'
+dateModified: '2016-02-15T19:23:36.450Z'
 title: RUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
@@ -64,4 +64,4 @@ Backstage ruum on suurepäraseks abiruumiks suurematel sündmustel, olgu tema fu
 # ABIRUUMID
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8b53bc-02a4-4875-adf1-565a5d99fde5.jpg)
 
-Erinevate Tubade Klubi garderoob mahutab kuni 350 külalise üleriided ja jalatsid. Puhveti abiruumid sobivad suurepäraselt cateringi-tagalaks. Suitsunurga ja tualettideni juhatab külalised (üsnagi priske) tükike elusloodust - tubast džunglimeeleolu loov taimesein. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/452cd5ce-acad-4c31-b69b-987bafa9f831.png)
+Erinevate Tubade Klubi garderoob mahutab kuni 350 külalise üleriided ja jalatsid. Puhveti abiruumid sobivad suurepäraselt cateringi-tagalaks. Suitsunurga ja tualettideni juhatab külalised (üsnagi priske) tükike elusloodust - tubast džunglimeeleolu loov taimesein. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/910f49f7aa3b64abee7ae33c8896cb3f352df417.png)
