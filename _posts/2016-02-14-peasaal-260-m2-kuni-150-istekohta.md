@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-14T21:25:47.194Z'
-dateModified: '2016-02-14T21:25:43.689Z'
+datePublished: '2016-02-15T14:10:39.892Z'
+dateModified: '2016-02-15T14:10:00.909Z'
 title: PEASAAL
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: peasaal-260-m2-kuni-150-istekohta/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbce122e-49e7-47d2-a670-2ecbb102d7e8.jpg)
