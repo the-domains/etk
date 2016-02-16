@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T19:23:42.504Z'
-dateModified: '2016-02-15T19:23:36.450Z'
+datePublished: '2016-02-16T09:02:21.690Z'
+dateModified: '2016-02-15T19:23:44.724Z'
 title: RUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
