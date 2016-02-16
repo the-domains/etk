@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T14:31:30.112Z'
-dateModified: '2016-02-15T14:30:48.552Z'
+datePublished: '2016-02-16T09:01:02.529Z'
+dateModified: '2016-02-16T09:00:57.806Z'
 title: ETK PUHVET
 author: []
 sourcePath: _posts/2016-02-15-etk-puhvet.md
