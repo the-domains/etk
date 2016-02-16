@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T09:02:21.690Z'
-dateModified: '2016-02-15T19:23:44.724Z'
+datePublished: '2016-02-16T09:02:49.486Z'
+dateModified: '2016-02-16T09:02:37.711Z'
 title: RUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
