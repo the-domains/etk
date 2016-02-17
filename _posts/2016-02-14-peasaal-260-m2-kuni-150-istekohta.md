@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T18:06:38.990Z'
-dateModified: '2016-02-17T18:06:36.037Z'
+datePublished: '2016-02-17T18:30:27.699Z'
+dateModified: '2016-02-17T18:30:25.559Z'
 title: RUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
@@ -63,7 +63,7 @@ Väikses saalis leiavad aset suuremate sündmuste kohvipausid ja lõunasöögid.
 Backstage ruum on suurepäraseks abiruumiks suurematel sündmustel, olgu tema funktsiooniks lastetuba, sünkroontõlgituba (videomonitooringuga peasaalist) või ettevalmistusala esinejatele. Backstage'ist on olemas ka otsepääs lavale. 
 
 # ABIRUUMID
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8b53bc-02a4-4875-adf1-565a5d99fde5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6165efaf-6c2c-4509-8f03-717091b4968f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/86f5584a6b8bdc14bb2e1ad379a2d89e9f936a7a.png)
 
 Erinevate Tubade Klubi garderoob mahutab kuni 350 külalise üleriided ja jalatsid. Puhveti abiruumid sobivad suurepäraselt cateringi-tagalaks. Suitsunurga ja tualettideni juhatab külalised (üsnagi priske) tükike elusloodust - tubast džunglimeeleolu loov taimesein.
