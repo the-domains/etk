@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T18:01:52.434Z'
-dateModified: '2016-02-17T18:01:49.565Z'
+datePublished: '2016-02-17T18:06:38.990Z'
+dateModified: '2016-02-17T18:06:36.037Z'
 title: RUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
@@ -38,11 +38,12 @@ kuni 250 inimest.
 
 # ELUTOAD
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1560b44c-e845-4ddb-b7eb-ba4f0b2b1b43.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/151c39cea87f5ef5ee3cd638db5e72728607f21b.png)
 
 Peasaali elutoad mahutavad istuma 6-9 inimest. Igal elutoal on oma oma 42" ekraan, mida saab kasutada nii laval esineja
 ja tema presentatsioonide kuvamiseks kui ka grupitööde puhul väiksema seltskonna tööplatvormina. Elutoad on varustatud
 interaktiivsete nutilaudadega kuni kuuele kasutajale. Elutoasektsioonideks jaotatud ruum loob hea pinnase sujuvateks
-üleminekuteks kõiki ruumisviibijaid hõlmavatelt tegevustelt grupitöödele ja vastupidi. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/151c39cea87f5ef5ee3cd638db5e72728607f21b.png)
+üleminekuteks kõiki ruumisviibijaid hõlmavatelt tegevustelt grupitöödele ja vastupidi. 
 
 # KLUBITUBA / 50 m2
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9e1796-74e1-46c6-b3ca-0743c83f05d0.jpg)
@@ -63,5 +64,6 @@ Backstage ruum on suurepäraseks abiruumiks suurematel sündmustel, olgu tema fu
 
 # ABIRUUMID
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8b53bc-02a4-4875-adf1-565a5d99fde5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/86f5584a6b8bdc14bb2e1ad379a2d89e9f936a7a.png)
 
-Erinevate Tubade Klubi garderoob mahutab kuni 350 külalise üleriided ja jalatsid. Puhveti abiruumid sobivad suurepäraselt cateringi-tagalaks. Suitsunurga ja tualettideni juhatab külalised (üsnagi priske) tükike elusloodust - tubast džunglimeeleolu loov taimesein. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3edfef3038032fe95d309ce754af07e6f2b3389f.png)
+Erinevate Tubade Klubi garderoob mahutab kuni 350 külalise üleriided ja jalatsid. Puhveti abiruumid sobivad suurepäraselt cateringi-tagalaks. Suitsunurga ja tualettideni juhatab külalised (üsnagi priske) tükike elusloodust - tubast džunglimeeleolu loov taimesein.
