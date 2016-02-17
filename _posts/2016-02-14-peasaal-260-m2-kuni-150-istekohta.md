@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T17:55:07.800Z'
-dateModified: '2016-02-17T17:55:04.819Z'
+datePublished: '2016-02-17T18:01:52.434Z'
+dateModified: '2016-02-17T18:01:49.565Z'
 title: RUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
@@ -29,7 +29,7 @@ Erinevate Tubade Klubi ruumid ja atmosfäär on midagi neile, kes otsivad teists
 
 # PEASAAL / 250 m2
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53feafb1-db54-4881-bbc5-96dadc6b5d78.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01f28758-dcd1-415d-9b1f-239eb064772a.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bd85c6cb96048cec4440669ca94aec0a05837ed.png)
 
 ETK peasaal on vaikimisi jaotatud 12-ks elutoasektsiooniks. Sektsioonides istuvad külastajad mugavalt diivanitel ja
 tugitoolidel. Elutoastiilis mahutab peasaal istuma kuni 90 inimest. Asendades peasaalis neli esimest elutoasektsiooni
@@ -42,7 +42,7 @@ kuni 250 inimest.
 Peasaali elutoad mahutavad istuma 6-9 inimest. Igal elutoal on oma oma 42" ekraan, mida saab kasutada nii laval esineja
 ja tema presentatsioonide kuvamiseks kui ka grupitööde puhul väiksema seltskonna tööplatvormina. Elutoad on varustatud
 interaktiivsete nutilaudadega kuni kuuele kasutajale. Elutoasektsioonideks jaotatud ruum loob hea pinnase sujuvateks
-üleminekuteks kõiki ruumisviibijaid hõlmavatelt tegevustelt grupitöödele ja vastupidi. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbaf62dd-47fb-4b34-ba20-2bc30286cbd9.png)
+üleminekuteks kõiki ruumisviibijaid hõlmavatelt tegevustelt grupitöödele ja vastupidi. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/151c39cea87f5ef5ee3cd638db5e72728607f21b.png)
 
 # KLUBITUBA / 50 m2
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9e1796-74e1-46c6-b3ca-0743c83f05d0.jpg)
