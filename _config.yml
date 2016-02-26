@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 0.3297491
-  brandStrength: 1
-  lightness: 0.5053763
+  brandStrength: 0.6845878
+  lightness: 0.6129032
   brandColors:
     - '#2e3192'
     - '#818285'
     - '#ffffff'
     - '#d1d2d4'
     - '#c5c6c7'
-  rhythmicContrast: 0.5215054
+  rhythmicContrast: 0.7831541
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Erinevate Tubade Klubi
 favicon: null
+name: Erinevate Tubade Klubi
 opengraph:
   image: null
   type: null
