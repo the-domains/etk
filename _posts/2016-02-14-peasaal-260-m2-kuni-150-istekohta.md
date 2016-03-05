@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T14:10:03.592Z'
-dateModified: '2016-03-03T14:09:38.262Z'
-title: RUUMID
+datePublished: '2016-03-05T10:52:20.149Z'
+dateModified: '2016-03-05T10:52:16.702Z'
+title: BUUMID
 author: []
 sourcePath: _posts/2016-02-14-peasaal-260-m2-kuni-150-istekohta.md
 published: true
@@ -22,7 +22,7 @@ url: peasaal-260-m2-kuni-150-istekohta/index.html
 _type: Article
 
 ---
-# RUUMID
+# BUUMID
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/948ed2cf-2e9f-4409-9d5f-f9821b1dc95d.jpg)
 
 Erinevate Tubade Klubi ruumid ja atmosfäär on midagi neile, kes otsivad teistsuguseid kogemusi, kuid peavad samas tähtsaks elementaarseid mugavusi ja professionaalseid lahendusi.
