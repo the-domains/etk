@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T11:25:01.592Z'
-dateModified: '2016-03-05T11:24:57.825Z'
+datePublished: '2016-03-05T11:26:39.713Z'
+dateModified: '2016-03-05T11:26:36.886Z'
 title: ETK PUHVET
 author: []
 sourcePath: _posts/2016-02-15-etk-puhvet.md
@@ -18,10 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: etk-puhvet/index.html
-_type: Article
+_type: Blurb
 
 ---
+# ETK PUHVET
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f54453b7-20df-4516-902e-4068e29a315e.jpg)
 
 ETK puhvet hoolitseb sündmuste käigus joogipoolise, kergemate kohvipauside, puuviljavaagnate, smuutide ja maiuste eest. 
