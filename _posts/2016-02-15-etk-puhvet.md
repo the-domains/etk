@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T20:05:57.850Z'
-dateModified: '2016-03-07T20:05:51.178Z'
+datePublished: '2016-03-07T21:30:28.466Z'
+dateModified: '2016-03-07T21:30:25.299Z'
 title: ETK PUHVET
 author: []
 sourcePath: _posts/2016-02-15-etk-puhvet.md
@@ -25,11 +25,11 @@ _type: Article
 # ETK PUHVET
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f54453b7-20df-4516-902e-4068e29a315e.jpg)
 
-* [JOOGIMENÜÜ][0]
+[JOOGIMENÜÜ][0]
 
 ETK puhvet hoolitseb sündmuste käigus joogipoolise, kergemate kohvipauside, puuviljavaagnate, smuutide ja maiuste eest. 
 
 Supid, võileivad, salatid ja soe söök saabuvad toitlustuseks ette nähtud vastuvõtusaali meie heade partnerite abil.
 Suuremate sündmuste puhul avame ka Klubitoas paikneva lisapuhveti. 
 
-[0]: www.erinevatetubadeklubi.ee/menuu
+[0]: http://www.erinevatetubadeklubi.ee/
