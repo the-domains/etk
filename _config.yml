@@ -1,41 +1,41 @@
-name: Erinevate Tubade Klubi
-favicon: null
-layout_spectrum: 0.58483
-typography_spectrum: 0.64267
-title: Erinevate Tubade Klubi
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.58483
+title: Erinevate Tubade Klubi
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.6875
+  brandStrength: 0.625
+  rhythmicContrast: 0
   brandColors:
     - '#2e3192'
     - '#818285'
     - '#ffffff'
     - '#d1d2d4'
     - '#c5c6c7'
-  brandStrength: 0.625
   lightness: 1
-  saturation: 0.6875
-  rhythmicContrast: 0
 purpose: []
+favicon: null
+name: Erinevate Tubade Klubi
+typography_spectrum: 0.64267
