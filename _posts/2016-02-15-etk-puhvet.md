@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: JOOGIMENÜÜ
-datePublished: '2016-03-09T08:49:34.178Z'
-dateModified: '2016-03-09T08:48:17.875Z'
+description: "ETK puhvet hoolitseb sündmuste käigus joogipoolise, kergemate kohvipauside, puuviljavaagnate, smuutide ja maiuste eest.\_"
+datePublished: '2016-03-09T08:50:20.509Z'
+dateModified: '2016-03-09T08:50:19.932Z'
 title: ETK PUHVET
 author: []
 sourcePath: _posts/2016-02-15-etk-puhvet.md
