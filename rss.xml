@@ -4,7 +4,7 @@
         <description><![CDATA[Erinevate Tubade Klubi]]></description>
         <link>http://erinevatetubadeklubi.ee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 12:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 12:08:26 GMT</lastBuildDate>
         <atom:link href="http://erinevatetubadeklubi.ee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[RUUMID]]></title>
@@ -20,7 +20,7 @@ kuni 250 inimest.
         <item>
             <title><![CDATA[ASUKOHT]]></title>
             <description><![CDATA[<article><h1>ASUKOHT</h1><p>Erinevate Tubade Klubi (ETK) asub Telliskivi Loomelinnaku A1 hoone IV korrusel.
-</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8a43712-b47d-46c6-aedf-ac2aa628a468.png"></article>]]></description>
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d92b301b857fa6c969961f56c63f44e54d2ecf10.png"></article>]]></description>
             <link>http://erinevatetubadeklubi.ee/test/index.html</link>
             <guid isPermaLink="false">4dffaff2-46ec-4fe0-854f-885d4bc0cf55</guid>
             <pubDate>Fri, 11 Mar 2016 12:03:45 GMT</pubDate>
@@ -51,7 +51,7 @@ kuni 250 inimest.
             <description><![CDATA[<article><h1>KALENDER</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8db7e58b85700260fe1ce07197c9eec2f605298.jpg"></article>]]></description>
             <link>http://erinevatetubadeklubi.ee/kalender/index.html</link>
             <guid isPermaLink="false">424680bf-ee6b-4ece-aea2-1ad2df11a63b</guid>
-            <pubDate>Sat, 05 Mar 2016 11:58:26 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 12:08:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
