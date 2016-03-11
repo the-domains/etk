@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: TEHNILISE STSENAARIUMI JUHEND
-datePublished: '2016-03-11T10:19:31.152Z'
-dateModified: '2016-03-11T10:19:03.233Z'
-title: ABIMATERJALID
+datePublished: '2016-03-11T10:22:58.354Z'
+dateModified: '2016-03-11T10:22:51.526Z'
+title: KÜLALISE MEELESPEA
 author: []
 sourcePath: _posts/2016-03-11-abimaterjalid.md
 published: true
@@ -22,11 +22,9 @@ url: abimaterjalid/index.html
 _type: Blurb
 
 ---
-# ABIMATERJALID
+# KÜLALISE MEELESPEA
 
 Meil on väga hea meel, et oled oma sündmuse toimumiskohaks valinud Erinevate Tubade Klubi. Siit lehelt leiad vajalikud abimaterjalid ning meelespead.
-
-## KÜLALISE MEELESPEA
 
 * ETKs kehtib vahetusjalatsipoliitika. Palume sellest kurioosumist aegsasti teavitada ka oma sündmuse külalisi ning personali. Koha peal on olemas igas suuruses toasussid kuni 250-le külalisele, samuti on tervitatud omad vahetusjalatsid. 
 * Enne kui suundute trükikotta oma sündmuse tarbeks roll-uppe, vimpleid, lipukesi ja plakateid trükkima, konsulteerime hea meelega brandingu edastamise teemat ETK ekraanisüsteemi kaudu. Sponsorlogode ja brandingu kuvamine paberi asemel ekraanidele säästab loodust ja jalavaeva.
@@ -37,8 +35,7 @@ Meil on väga hea meel, et oled oma sündmuse toimumiskohaks valinud Erinevate T
 
 [PRESENTATSIOONI KOOSTAMISE JUHEND][1]
 
-[HINNAKIRI][2]
+HINNAKIRI
 
 [0]: https://www.dropbox.com/s/5r3ype50b48szxv/ETK_tehniline_stsenaarium.pdf?dl=0
 [1]: https://www.dropbox.com/s/h25cobakfq800gj/ETK_presentation_manual.pdf?dl=0
-[2]: https://www.dropbox.com/s/1v0y2wasgwg8s04/etk_hinnakiri.pdf?dl=0
