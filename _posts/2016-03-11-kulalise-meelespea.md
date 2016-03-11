@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Meil on väga hea meel, et oled oma sündmuse toimumiskohaks valinud Erinevate Tubade Klubi. Siit lehelt leiad vajalikud abimaterjalid ning meelespead.'
-datePublished: '2016-03-11T10:41:17.272Z'
-dateModified: '2016-03-11T10:40:57.025Z'
+datePublished: '2016-03-11T10:41:23.502Z'
+dateModified: '2016-03-11T10:41:19.967Z'
 title: KÜLALISE MEELESPEA
 author: []
 sourcePath: _posts/2016-03-11-kulalise-meelespea.md
