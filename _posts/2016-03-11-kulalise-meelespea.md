@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Meil on väga hea meel, et oled oma sündmuse toimumiskohaks valinud Erinevate Tubade Klubi. Siit lehelt leiad vajalikud abimaterjalid ning meelespead.'
-datePublished: '2016-03-11T11:13:37.866Z'
-dateModified: '2016-03-11T11:13:05.490Z'
+datePublished: '2016-03-11T11:13:42.195Z'
+dateModified: '2016-03-11T11:13:40.801Z'
 title: KÜLALISE MEELESPEA
 author: []
 sourcePath: _posts/2016-03-11-kulalise-meelespea.md
@@ -40,9 +40,9 @@ Ootame Teie sündmuse sisendeid (presentatsioonid, tehniline stsenaarium, failid
 
 ## JUHENDID
 
-[TEHNILISE STSENAARIUMI KOOSTAMISE JUHEND][0]
+[TEHNILISE STSENAARIUMI KOOSTAMISE JUHEND][0] !!!
 
-[PRESENTATSIOONI KOOSTAMISE JUHEND][1]
+[PRESENTATSIOONI KOOSTAMISE JUHEND][1] !!!
 
 [INTERAKTIIVSETE LAUDADE JUHEND][2]
 
