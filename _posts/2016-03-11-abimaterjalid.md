@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: TEHNILISE STSENAARIUMI JUHEND
-datePublished: '2016-03-11T10:18:55.286Z'
-dateModified: '2016-03-11T10:18:49.867Z'
+datePublished: '2016-03-11T10:19:31.152Z'
+dateModified: '2016-03-11T10:19:03.233Z'
 title: ABIMATERJALID
 author: []
+sourcePath: _posts/2016-03-11-abimaterjalid.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-abimaterjalid.md
-published: true
 url: abimaterjalid/index.html
 _type: Blurb
 
